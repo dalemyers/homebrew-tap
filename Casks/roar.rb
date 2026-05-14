@@ -23,8 +23,8 @@ cask "roar" do
   # that would fail a real install so a half-set-up tap surfaces
   # the misconfiguration loudly instead of silently downloading
   # something the user didn't expect.
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.5"
+  sha256 "91306f6b39aea27fe6531169507b70faa44de535a77a6f792d515b4f572de990"
 
   # Release artifacts are hosted on the Roar repo's GitHub
   # Releases. The `app.zip` form is ditto-packaged so Apple's
